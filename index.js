@@ -200,7 +200,7 @@ function parseRead(Modeldata, options) {
 /* Exports */
 
 /* Export Functions */
-module.exports.readModel = readModel
+// module.exports.readModel = readModel
 module.exports.parseRead = parseRead
 
 /* Export Classes */
